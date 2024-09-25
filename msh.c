@@ -3,6 +3,7 @@
 * Date: September 24, 2024
 * File: msh.c
 * Description: This file implements a basic shell that executes commands from Bash.
+* Copyright (C) 2024 Nebi Malik. All rights reserved.
 **********************************************************************************************/
 
 #define _GNU_SOURCE
