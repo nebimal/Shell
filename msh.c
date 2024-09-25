@@ -83,6 +83,7 @@ int main(int argc, char *argv[])
 
       exec1(token);
     }
+    fclose(fp);
   }
   else if((argv[1] != NULL) && (argv[2] != NULL))
   {
